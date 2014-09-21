@@ -1,7 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## cachematrix.R by Igor Hut
 
 # makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
 
